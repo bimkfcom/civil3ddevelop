@@ -1,0 +1,17 @@
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.swp
+*.aps
+*.dwl
+*.dwl2
+*.mnr
+..gitignore.un~
+.gitignore~
+*.mdf
+*.ldf
+*.orig
+
+Source\C3DAPIDemos\bin\
+Source\C3DAPIDemos\obj\
